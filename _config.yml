@@ -1,0 +1,32 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Rivik
+tagline:             'simple is better'
+description:         'A CT based website desing and development agency.'
+url:                 https://rivik-media.github.io/dev-site/
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Rivik Media
+  url:               https://twitter.com/rivikmedia
+  email:             hello@rivikmedia.com
+
+# Custom vars
+version:             0.2
+
+# Social Media
+github:				http://github.com/rivik-media
+twitter:			http://twitter.com/rivikmedia
