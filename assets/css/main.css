@@ -629,17 +629,17 @@ a.pagination-item:hover {
  *
  * Default dark theme of Naringu is here (Will Update)
 
-/* #6DD */
+/* #FFF */
 
-.theme-6dd .sidebar,
-.theme-6dd .sidebar-toggle:active,
-.theme-6dd #sidebar-checkbox:checked ~ .sidebar-toggle {
+.theme-fff .sidebar,
+.theme-fff .sidebar-toggle:active,
+.theme-fff #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #000;
 }
-.theme-6dd .container a,
-.theme-6dd .sidebar-toggle,
-.theme-6dd .related-posts li a:hover {
-  color: #6DD;
+.theme-fff .container a,
+.theme-fff .sidebar-toggle,
+.theme-fff .related-posts li a:hover {
+  color: #fff;
 }
 
 
