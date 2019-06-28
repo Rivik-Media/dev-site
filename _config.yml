@@ -14,7 +14,7 @@ permalink:           pretty
 title:               Rivik
 tagline:             'simple is better'
 description:         'A CT based website desing and development agency.'
-url:                 https://rivik-media.github.io/dev-site/
+url:                 https://rivik-media.github.io/dev-site
 baseurl:             /
 paginate:            5
 
